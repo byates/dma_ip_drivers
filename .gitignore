@@ -1,0 +1,17 @@
+*.o.cmd
+*.o
+*.ko.cmd
+*Module.symvers
+*modules.order
+*.ko
+*.mod.c
+QDMA/linux-kernel/drv/libqdma
+QDMA/linux-kernel/tools/dma_from_device
+QDMA/linux-kernel/tools/dma_to_device
+QDMA/linux-kernel/tools/dmaperf
+QDMA/linux-kernel/user/cli/dmactl
+QDMA/linux-kernel/user/qdma_xfer_app/qdma_xfer_app
+
+.tmp_versions/
+QDMA/linux-kernel/build/
+
